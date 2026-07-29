@@ -24,12 +24,12 @@ async def show_repo(_, msg):
     buttons = [
         [styled_button("➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✨", url=f"https://t.me/{BOT_USERNAME}?startgroup=true", style="success")],
         [
-            styled_button("👑 ᴏᴡɴᴇʀ", url="https://t.me/ItsMeVishalBots", style="primary"),
-            styled_button("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/ItsMeVishalBots", style="primary"),
+            styled_button("👑 ᴏᴡɴᴇʀ", url="https://t.me/about_deadly_venom", style="primary"),
+            styled_button("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/+RyQsaF7lv4U0NTI1", style="primary"),
         ],
         [
-            styled_button("🛠️ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/ItsMeVishalBots", style="primary"),
-            styled_button("🎵 ɢɪᴛʜᴜʙ", url="https://github.com/ItsMeVishal0/VishalMusic", style="primary"),
+            styled_button("🛠️ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/+12cA44ZnBLExZWNl", style="primary"),
+            styled_button("🎵 ɢɪᴛʜᴜʙ", url="https://t.me/about_deadly_venom", style="primary"),
         ],
     ]
 
